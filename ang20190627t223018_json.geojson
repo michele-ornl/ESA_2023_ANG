@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "year": 2019.0, "date": "2019-06-27", "flt_ID": "ang20190627t", "flt_line": "ang20190627t223018", "site_info": "SARP", "run_ID": "223018", "site_name": "Sedgwick Ranch 2", "nasa_log": "19M026", "investgtr": "Meiying Melissa Martin", "start_lat": 34.8473, "start_lon": -120.052, "stop_lat": 34.2605, "stop_lon": -120.052, "start_gmt": "2241", "stop_gmt": "2254", "comments": "Alt = kft, ;SOG = kts;Clouds = clear;MCRS =", "campaign": "NASA Student Airborne Research Program (SARP)", "camp_info": "SARP", "state": "California", "country": "United States", "platform": "King Air B200", "instrument": "AVIRIS-NG", "scene_elev": 283.45, "altitude": -999.0, "speed_grnd": -999.0, "direction": -999.0, "weather": "Clouds = clear", "radiance": "ang20190627t223018_rdn_v2u1_img.bin", "refl_rfl": null, "refl_corr": "ang20190627t223018_corr_v2u1_img.bin", "h2o_absorp": "ang20190627t223018_h2o_v2u1_img.bin", "quicklook": "ang20190627t223018_geo.jpeg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -120.087478, 34.253613 ], [ -120.07915, 34.855959 ], [ -120.012418, 34.855297 ], [ -120.021225, 34.25298 ], [ -120.087478, 34.253613 ] ] ] } }
+]
+}
